@@ -1,0 +1,2 @@
+define(["exports","./index.esm14","./_commonjsHelpers"],(function(e,s,n){"use strict";var i=n.getAugmentedNamespace(s.index_esm);e.require$$5=i}));
+//# sourceMappingURL=index.esm22.js-vflKrh-Gm.map

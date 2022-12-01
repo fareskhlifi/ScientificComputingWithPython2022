@@ -1,0 +1,2 @@
+define(["exports","./index.esm4","./_commonjsHelpers"],(function(e,s,n){"use strict";var i=n.getAugmentedNamespace(s.index_esm);e.require$$2=i}));
+//# sourceMappingURL=index.esm21.js-vflZ-aRnc.map
